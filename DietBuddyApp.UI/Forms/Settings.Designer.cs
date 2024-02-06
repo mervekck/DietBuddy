@@ -350,7 +350,6 @@
             ıconButton1.Size = new Size(15, 25);
             ıconButton1.TabIndex = 94;
             ıconButton1.UseVisualStyleBackColor = false;
-            ıconButton1.Click += ıconButton1_Click;
             ıconButton1.MouseHover += ıconButton1_MouseHover_1;
             // 
             // Settings
