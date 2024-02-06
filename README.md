@@ -1,6 +1,6 @@
 # MASAÜSTÜ DİYET UYGULAMASI 
 Bu sunum, DietBuddy uygulamasının amacı ve kapsamını açıklamak üzere hazırlanmıştır.
-![Welcome Resmi](GitImages/Welcome.png)
+![MASAÜSTÜ DİYET UYGULAMASI](GitImages/Welcome.png)
 # Diyet Uygulamasının Amaçları
 ## - KİŞİSELLEŞTİRİLEBİLİR
 Kullanıcının günlük, haftalık, aylık bazda ne kadar kalori aldığını öğün bazlı ve toplam olarak raporlama imkanı sunar.
