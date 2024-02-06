@@ -9,9 +9,9 @@ Aynı zamanda diğer kullanıcılar ile öğün ve yemek kategorisi bazlı kıya
 Günlük tüketilen kalori ve besin değerlerinin izlenebilmesini sağlar,
 verileri analiz eder ve özetler. En çok tüketilen favori yiyeceklerin belirlenmesine yardımcı olur.
 # UYGULAMANIN SAĞLADIĞI FAYDALAR
-1-	Sağlıklı Beslenme Alışkanlıkları
+## 1-	Sağlıklı Beslenme Alışkanlıkları
 Kullanıcıların uzun vadede sağlıklı beslenme alışkanlıkları kazanmalarına yardımcı olur.
-2-	Kontrollü Kilo Alma Ve Verme
+## 2-	Kontrollü Kilo Alma Ve Verme
 Kullanıcıların kilo alma ve verme süreçlerini etkili şekilde yönetmelerine yardımcı olur.
-3-	Zindelik Ve Enerji
+## 3-	Zindelik Ve Enerji
 Sağlıklı beslenmeye uyumu arttırarak kullanıcıların günlük yaşam kalitelerini yükseltir.
