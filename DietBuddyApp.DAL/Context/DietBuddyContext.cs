@@ -16,7 +16,7 @@ namespace DietBuddyApp.DAL.Context
         public virtual DbSet<FoodCatDate> FoodCatDates { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=LAPTOP-JS8IS6GT\\SQLEXPRESS;database=DietBuddyDB;Trusted_Connection=True;TrustServerCertificate=true;");
+            optionsBuilder.UseSqlServer("server=.;database=DietBuddyDB;Trusted_Connection=True;TrustServerCertificate=true;");
 
             base.OnConfiguring(optionsBuilder);
         }
