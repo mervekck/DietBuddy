@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietBuddyApp.DATA", "DietBuddyApp.DATA\DietBuddyApp.DATA.csproj", "{CBD08887-5EC8-42F3-BE7A-D2E6D0256551}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietBuddyApp.BLL", "DietBuddyApp.BLL\DietBuddyApp.BLL.csproj", "{41C6B347-C98A-4C3C-B171-F3DE5238D0B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietBuddyApp.DAL", "DietBuddyApp.DAL\DietBuddyApp.DAL.csproj", "{B567E050-BAAD-462F-B820-325812853657}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietBuddyApp.UI", "DietBuddyApp.UI\DietBuddyApp.UI.csproj", "{FE916F3D-4178-47A6-BDC0-65D194245204}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{30AC56D5-D0B3-458B-8566-08B2D9A4CB08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{0DD3CAEC-4A70-4C84-AC42-37E84FA26847}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{6FE74BE8-32F6-4DFA-A218-ADB75BC5741D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD08887-5EC8-42F3-BE7A-D2E6D0256551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD08887-5EC8-42F3-BE7A-D2E6D0256551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD08887-5EC8-42F3-BE7A-D2E6D0256551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD08887-5EC8-42F3-BE7A-D2E6D0256551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C6B347-C98A-4C3C-B171-F3DE5238D0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C6B347-C98A-4C3C-B171-F3DE5238D0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C6B347-C98A-4C3C-B171-F3DE5238D0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C6B347-C98A-4C3C-B171-F3DE5238D0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B567E050-BAAD-462F-B820-325812853657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B567E050-BAAD-462F-B820-325812853657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B567E050-BAAD-462F-B820-325812853657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B567E050-BAAD-462F-B820-325812853657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE916F3D-4178-47A6-BDC0-65D194245204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE916F3D-4178-47A6-BDC0-65D194245204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE916F3D-4178-47A6-BDC0-65D194245204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE916F3D-4178-47A6-BDC0-65D194245204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{41C6B347-C98A-4C3C-B171-F3DE5238D0B8} = {30AC56D5-D0B3-458B-8566-08B2D9A4CB08}
+		{B567E050-BAAD-462F-B820-325812853657} = {0DD3CAEC-4A70-4C84-AC42-37E84FA26847}
+		{FE916F3D-4178-47A6-BDC0-65D194245204} = {6FE74BE8-32F6-4DFA-A218-ADB75BC5741D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C169519-C6A3-4E68-A624-D93692C22721}
+	EndGlobalSection
+EndGlobal
