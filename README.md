@@ -1,3 +1,3 @@
 MASAÜSTÜ DİYET UYGULAMASI
 Bu sunum, DietBuddy uygulamasının amacı ve kapsamını açıklamak üzere hazırlanmıştır
-![Uploading image.png…]()
+
