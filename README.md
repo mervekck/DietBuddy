@@ -15,3 +15,8 @@ Kullanıcıların uzun vadede sağlıklı beslenme alışkanlıkları kazanmalar
 Kullanıcıların kilo alma ve verme süreçlerini etkili şekilde yönetmelerine yardımcı olur.
 ## 3-	Zindelik Ve Enerji
 Sağlıklı beslenmeye uyumu arttırarak kullanıcıların günlük yaşam kalitelerini yükseltir.
+# GİRİŞ VE ÜYELİK OLUŞTURMA
+Uygulamaya girdiğimizde bizi karşılayan ekrandır.
+Kullanıcılarımız bu ekran üzerinden yeni bir üyelik oluşturulabilir veya kayıtlı kullanıcı ise giriş yapabilir.
+![GİRİŞ VE ÜYELİK OLUŞTURMA](GitImages/Login.png)
+
