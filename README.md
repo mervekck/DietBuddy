@@ -55,5 +55,7 @@ Aynı zamanda kullanıcımız programdaki üyeliğini de yine ayarlar bölümün
 ![AYARLAR](GitImages/Settings.png)
 # Geliştirenler
 <a href="https://github.com/dogakarakucuk" target="_blank">Doğa Karaküçük</a>
+<br/>
 <a href="https://github.com/sibelDuman" target="_blank">Sibel Duman</a>
+<br/>
 <a href="https://github.com/Sevgigundogan" target="_blank">Sevgi Gündoğan</a>
