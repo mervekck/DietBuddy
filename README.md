@@ -53,3 +53,5 @@ Ayarlar sayfasından kullanıcımız programa üye olurken girdiği bilgilerini 
 Bu sayfada bulunan özellikle boy ve kilo bilgilerini güncelleyerek program kullanımı sırasında değişen vücut kütle endeksini(BMI) takip edebilir.
 Aynı zamanda kullanıcımız programdaki üyeliğini de yine ayarlar bölümünden silebilir.
 ![AYARLAR](GitImages/Settings.png)
+# Geliştirenler
+<a href="https://github.com/sibelDuman" target="_blank">GitHub</a>
