@@ -54,6 +54,8 @@ Bu sayfada bulunan özellikle boy ve kilo bilgilerini güncelleyerek program kul
 Aynı zamanda kullanıcımız programdaki üyeliğini de yine ayarlar bölümünden silebilir.
 ![AYARLAR](GitImages/Settings.png)
 # Geliştirenler
+<a href="https://github.com/mervekck" target="_blank">Merve Koçak</a>
+<br/>
 <a href="https://github.com/dogakarakucuk" target="_blank">Doğa Karaküçük</a>
 <br/>
 <a href="https://github.com/sibelDuman" target="_blank">Sibel Duman</a>
